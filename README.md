@@ -24,7 +24,7 @@ Link to access weather deatils of city: https://api.openweathermap.org/data/2.5/
 Output:
 ![Screenshot (25)](https://github.com/user-attachments/assets/4a37004c-378c-41bb-8663-4be8274fc4f7)
 
-----------------------------------------------Features & Error Handling-------------------------------------------------------
+----------------------------------------------Features & Error Handling------------------------------------------------------
 
 IF USER GIVES ACCESS TO LOCATION THEN WEATHER DATA WILL SHOW:
 
