@@ -4,7 +4,7 @@ $HTML
 $CSS
 $JAVASCRIPT
 
-----------------------------------------------------------------APP DESIGN BY CSS------------------------------------------------------------------------
+-----------------------------------------------APP DESIGN BY CSS-------------------------------------------------------
 
 DAY TIME DESIGN:
 ![DAY TIME APP CHECK](https://github.com/user-attachments/assets/66827b6b-50ca-4907-b65e-74d3ac8d911a)
@@ -13,7 +13,7 @@ DAY TIME DESIGN:
 NIGHT TIME DESIGN:
 ![NIGHT TIME APP CHECK](https://github.com/user-attachments/assets/08777885-de16-40e1-8a43-b125628d7185)
 
--------------------------------------------------------------------API INFORMATION----------------------------------------------------------------------
+--------------------------------------------------API INFORMATION---------------------------------------------------------
 API KEY USED BY ME: b6e0d09c3ed9098f2baf2d882716acc1
 API URL USED BY ME: https://api.openweathermap.org/data/2.5/weather?units=metric
 
