@@ -14,6 +14,7 @@ NIGHT TIME DESIGN:
 ![NIGHT TIME APP CHECK](https://github.com/user-attachments/assets/08777885-de16-40e1-8a43-b125628d7185)
 
 --------------------------------------------------API INFORMATION---------------------------------------------------------
+
 API KEY USED BY ME: b6e0d09c3ed9098f2baf2d882716acc1
 API URL USED BY ME: https://api.openweathermap.org/data/2.5/weather?units=metric
 
@@ -22,7 +23,8 @@ Link to access weather deatils of city: https://api.openweathermap.org/data/2.5/
 Output:
 ![Screenshot (25)](https://github.com/user-attachments/assets/4a37004c-378c-41bb-8663-4be8274fc4f7)
 
--------------------------------------------Features & Error Handling-------------------------------------------------------
+----------------------------------------------Features & Error Handling-------------------------------------------------------
+
 IF USER GIVES ACCESS TO LOCATION THEN WEATHER DATA WILL SHOW:
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/2170ed7b-d6b0-4ce9-a3c0-7e71bd682b46)
