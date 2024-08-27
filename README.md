@@ -16,6 +16,7 @@ NIGHT TIME DESIGN:
 --------------------------------------------------API INFORMATION---------------------------------------------------------
 
 API KEY USED BY ME: b6e0d09c3ed9098f2baf2d882716acc1
+
 API URL USED BY ME: https://api.openweathermap.org/data/2.5/weather?units=metric
 
 Link to access weather deatils of city: https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b6e0d09c3ed9098f2baf2d882716acc1&units=metric
